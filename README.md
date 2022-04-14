@@ -1,4 +1,6 @@
 # API_Nasa
+Note: The project is developed and commented in italian.
+
 A key needs to be created by the user to let the program work.
 
 To create a new key:
